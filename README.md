@@ -42,23 +42,55 @@
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
 
-2. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
+2. **Tracking community evolution in social networks: A survey.** Inf. Process. Manag. 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0306457317305551)
+
+    *Narimene Dakiche, Fatima Benbouzid-Si Tayeb, Yahya Slimani and Karima Benatchba.*
+
+3. **Evolutionary Computation for Community Detection in Networks: A Review.** IEEE Trans. Evol. Comput. 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8004509)
+
+    *Clara Pizzuti.*
+
+4. **Community Detection and Stochastic Block Models: Recent Developments.**  J. Mach. Learn. Res. 2017. [paper](https://jmlr.org/papers/volume18/16-480/16-480.pdf)
+
+    *Emmanuel Abbe.*
+
+8. **Community Detection in Large-Scale Social Networks: A Survey.** 2017. [paper](https://www.igi-global.com/chapter/community-detection-in-large-scale-social-networks/186309)
+
+    * S. Rao Chintalapudi, M. H. M. Krishna Prasad.*
+    
+5. **Metrics for Community Analysis: A Survey.**   ACM Comput. Surv. 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3091106)
+
+    *Tanmoy Chakraborty, Ayushi Dalmia, Animesh Mukherjee, Niloy Ganguly.*
+
+6. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
 
     *Tanja Hartmann，Andrea Kappes，Dorothea Wagner.*
 
-3. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
+7. **Community detection in networks: A user guide.** arXiv 2016. [paper](https://arxiv.org/pdf/1608.00163.pdf)
+
+    * Santo Fortunato, Darko Hric.*
+    
+9. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
     *Charu C. Aggarwal, Karthik Subbian.*
 
-4. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
+10. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
 
     *Fragkiskos D. Malliaros，Michalis Vazirgiannis.*
     
-5. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
+11. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
 
     *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
 
-6. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
+12. **Clustering and Community Detection in Directed Networks: A Survey.**  arXiv. 2013. [paper](https://arxiv.org/pdf/1308.0971.pdf)
+
+    *Fragkiskos D. Malliaros, Michalis Vazirgiannis.*
+
+13. **A Survey of Community Detection in Online Social Network.** IJESTR 2013. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.404.1633&rep=rep1&type=pdf)
+
+    *B. Padma Priya, K. Sathiyakumari.*
+
+14. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
 
     *Bianfang Chai，Caiyan Jia，Jian Yu.*
     
