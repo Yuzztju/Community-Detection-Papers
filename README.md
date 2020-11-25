@@ -4,6 +4,27 @@
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
 
+2. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
+
+    *Tanja Hartmann，Andrea Kappes，Dorothea Wagner.*
+
+3. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
+
+    *Charu C. Aggarwal, Karthik Subbian.*
+
+4. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
+
+    *Fragkiskos D. Malliaros，Michalis Vazirgiannis.*
+    
+5. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
+
+    *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
+
+5. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
+
+    *Bianfang Chai，Caiyan Jia，Jian Yu.*
+
+
 2. **Overlapping Community Detection with Graph Neural Networks.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.12201.pdf)
 
     *Oleksandr Shchur, Stephan Günnemann.*
@@ -20,10 +41,6 @@
 
     *Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhang.*
     
-6. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
-
-    *Tanja Hartmann，Andrea Kappes，Dorothea Wagner.*
-    
 7. **Defining and identifying cograph communities in complex networks.** New Journal of Physics 2015. [paper](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/013044/pdf)
 
     *Songwei Jia, Lin Gao, Yong Gao, James Nastos, Yijie Wang, Xindong Zhang and Haiyang Wang.*
@@ -39,18 +56,6 @@
 10. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
 
     *Yixuan Li, Kun He, David Bindel and John E. Hopcroft.*
-
-11. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
-
-    *Charu C. Aggarwal, Karthik Subbian.*
-
-12. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
-
-    *Fragkiskos D. Malliaros，Michalis Vazirgiannis.*
-    
-13. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
-
-    *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
     
 14. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
 
