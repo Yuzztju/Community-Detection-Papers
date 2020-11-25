@@ -127,10 +127,6 @@
 
     *Zi Yang, Jie Tang, Juanzi Li, Wenjun Yang*
 
-4. **Social Community Analysis via a Factor Graph Model.** IEEE Intell. Syst. 26(3): 58-65 (2011).
- [paper](https://www.researchgate.net/profile/Juanzi_Li/publication/220628742_Social_Community_Analysis_via_a_Factor_Graph_Model/links/55ade73308aee079921e3f15/Social-Community-Analysis-via-a-Factor-Graph-Model.pdf)
-
-    *Zi Yang, Jie Tang, Juanzi Li, Wenjun Yang*
 
 ## [Undirected Graphical Models](#content)
 
