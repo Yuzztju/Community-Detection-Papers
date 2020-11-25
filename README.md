@@ -34,11 +34,11 @@
     
 9. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://dl.acm.org/doi/10.5555/2887007.2887026)
 
-    *Dongxiao He, Dayou Liu, Di Jin, Weixiong Zhang.*    
+    *Dongxiao He, Dayou Liu, Di Jin and Weixiong Zhang.*    
     
 10. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
 
-    *Yixuan Li, Kun He, David Bindel, John E. Hopcroft.*
+    *Yixuan Li, Kun He, David Bindel and John E. Hopcroft.*
 
 11. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
@@ -94,7 +94,7 @@
 5. **Semantic Community Identification in Large Attribute Networks.** AAAI 2016: 265-271.
  [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1086.6777&rep=rep1&type=pdf)
 
-    *Xiao Wang, Di Jin, Xiaochun Cao, Liang Yang, Weixiong Zhang.*
+    *Xiao Wang, Di Jin, Xiaochun Cao, Liang Yang and Weixiong Zhang.*
 
 6. **Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks.** IJCAI 2015: 2083-2089.
  [paper](https://www.ijcai.org/Proceedings/15/Papers/295.pdf)
@@ -124,7 +124,7 @@
 11. **Community discovery using nonnegative matrix factorization.** Data Min. Knowl. Discov. 22(3): 493-521 (2011).
 [paper](https://www.researchgate.net/profile/Shenghuo_Zhu/publication/220451825_Community_discovery_using_nonnegative_matrix_factorization/links/0c960522670bb2e4f7000000.pdf)
 
-    *Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu  and Chris H. Q. Ding.*
+    *Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu and Chris H. Q. Ding.*
 
 12. **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection.** Data Min. CIKM 2017: 597-606.
 [paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
@@ -134,7 +134,7 @@
 13. **Community Detection in Social Network with Pairwisely Constrained Symmetric Non-Negative Matrix Factorization.** ASONAM 2015: 541-546
 [paper](https://dl.acm.org/doi/pdf/10.1145/2808797.2809383)
 
-    *Xiaohua Shi, Hongtao Lu, Yangcheng He, Shan He.*
+    *Xiaohua Shi, Hongtao Lu, Yangcheng He and Shan He.*
 
 14. **Symmetric Nonnegative Matrix Factorization for Graph Clustering.** ASONAM 2015: 541-546
 [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972825.10)
