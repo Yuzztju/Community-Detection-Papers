@@ -56,7 +56,7 @@
 
 8. **Community Detection in Large-Scale Social Networks: A Survey.** 2017. [paper](https://www.igi-global.com/chapter/community-detection-in-large-scale-social-networks/186309)
 
-    * S. Rao Chintalapudi, M. H. M. Krishna Prasad.*
+    *S. Rao Chintalapudi, M. H. M. Krishna Prasad.*
     
 5. **Metrics for Community Analysis: A Survey.**   ACM Comput. Surv. 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3091106)
 
@@ -68,7 +68,7 @@
 
 7. **Community detection in networks: A user guide.** arXiv 2016. [paper](https://arxiv.org/pdf/1608.00163.pdf)
 
-    * Santo Fortunato, Darko Hric.*
+    *Santo Fortunato, Darko Hric.*
     
 9. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
