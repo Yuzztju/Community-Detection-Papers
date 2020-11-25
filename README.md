@@ -6,7 +6,7 @@
 
 2. **Overlapping Community Detection with Graph Neural Networks.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.12201.pdf)
 
-    *  Oleksandr Shchur, Stephan Günnemann.*
+    *Oleksandr Shchur, Stephan Günnemann.*
 
 3. **Multiobjective Optimization and Local Merge for Clustering Attributed Graphs.** IEEE Trans. Cybern. 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618599)
 
