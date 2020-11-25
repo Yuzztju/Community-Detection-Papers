@@ -4,29 +4,29 @@ Contributed by XX, XX and XX.
 
 ## [Content](#content)
 <table>
-<tr><td colspan="2"><a href="#ch1">1. Introduction</a></td></tr> 
-<tr><td colspan="2"><a href="#ch3">3. Community Detection With Probabilistic Graphical Model</a></td></tr> 
+<tr><td colspan="2"><a href="#ch1">1. Survey</a></td></tr> 
+<tr><td colspan="2"><a href="#ch3">2. Community Detection With Probabilistic Graphical Model</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#DGM">3.1 Directed Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#DGM">2.1 Directed Graphical Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#UGM">3.2 Undirected Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#UGM">2.2 Undirected Graphical Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#DMUM">3.3 Integrating Directed and Undirected Models</a></td>
+    <td>&emsp;&ensp;<a href="#DMUM">2.3 Integrating Directed and Undirected Models</a></td>
 </tr>
-<tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">4. Community Deteciton With Deep Learning</a></td></tr> 
+<tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">3. Community Deteciton With Deep Learning</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Auto-encoder-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">3.1 Auto-encoder-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">4.2 Generative Adversarial Network-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">3.2 Generative Adversarial Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Graph-Convolutional-Network-based-Methods">4.3 Graph Convolutional Network-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Graph-Convolutional-Network-based-Methods">3.3 Graph Convolutional Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Integrating-Graph-Convolutional-Network-and-Undirected-Graphical-Models">4.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#Integrating-Graph-Convolutional-Network-and-Undirected-Graphical-Models">3.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
 </tr>
 </table>
 
