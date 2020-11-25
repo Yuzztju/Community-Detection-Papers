@@ -163,6 +163,19 @@
 
 [Applications](#content)
 === 
+## [Neuroscience](#content)
+
+1. **Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks.** BigData 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9005586)
+
+    *Jiahao Liu, Guixiang Ma, Fei Jiang, Chun-Ta Lu, Philip S. Yu and Ann B. Ragin.*
+
+1. **Multiscale Community Detection in Functional Brain Networks Constructed Using Dynamic Time Warping.** IEEE T NEUR SYS REH 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8873632)
+
+    *Di Jin, Rui Li, Junhai Xu.*
+    
+    
+
+    
 ## [Recommendation](#content)
 
 1. **SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter.** KDD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370)
@@ -176,12 +189,16 @@
 3. **Towards Recommendation Using Interest-Based Communities in Attributed Social Networks.** WWW 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191562)
 
     *Amani H. B. Eissa, Mohamed E. El-Sharkawi, Hoda M. O. Mokhtar.*
+    
+## [Link prediction](#content)
 
+1. **On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction.** WWW 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3041021.3054269)
 
+    *Linchuan Xu, Xiaokai Wei, Jiannong Cao and Philip S. Yu.*
 
+2. **Discriminative Link Prediction using Local, Community, and Global Signals.** TKDE 2016. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7456301)
 
-
-
+    *Abir De, Sourangshu Bhattacharya, Sourav Sarkar, Niloy Ganguly and Soumen Chakrabarti.*
 
 
 
