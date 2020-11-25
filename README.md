@@ -36,8 +36,8 @@
 </tr> 
 </table>
 
-[Survey papers](#content)
--------  
+# [Survey papers](#content)
+
 1. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/693)
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
@@ -62,8 +62,8 @@
 
     *Bianfang Chai，Caiyan Jia，Jian Yu.*
     
-[Community Detection With Probabilistic Graphical Model](#content)
--------  
+# [Community Detection With Probabilistic Graphical Model](#content)
+
 ## [Directed Graphical Models](#content)
 
 ### [Matrix Factorization-based Methods](#content)
@@ -161,8 +161,8 @@
 
     *Zi Yang, Jie Tang, Juanzi Li and Wenjun Yang.*
 
-[Community Deteciton With Deep Learning](#content)
--------  
+# [Community Deteciton With Deep Learning](#content)
+
 ## [Auto-encoder-based Methods](#content)
 #### Stacked Auto-encoders
 
@@ -290,8 +290,8 @@
      *Hongchang Gao, Jian Pei, Heng Huang.*
      
 
-[Applications](#content)
-=== 
+# [Applications](#content)
+
 ## [Online Social Network](#content)
 1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. 
 
