@@ -1,6 +1,7 @@
 # Must-read papers on community detection 
 
-## [Content](#content)
+[Content](#content)
+-------  
 <table>
 <tr><td colspan="2"><a href="#ch1">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#ch3">2. Community Detection With Probabilistic Graphical Model</a></td></tr> 
@@ -109,6 +110,9 @@
 17. **Collective dynamics of ‘small-world’ networks.** Nature 1998. [paper](https://www.nature.com/articles/30918)
 
     *Duncan J. Watts, Steven H. Strogatz.*
+    
+[Community Detection With Probabilistic Graphical Model](#content)
+-------  
 
 ## [Matrix Factorization-based Methods](#content)
 #### Basic NMF 
@@ -205,7 +209,8 @@
 
     *Zi Yang, Jie Tang, Juanzi Li and Wenjun Yang.*
 
-# [Community Deteciton With Deep Learning](#content)
+[Community Deteciton With Deep Learning](#content)
+-------  
 ## [Auto-encoder-based Methods](#content)
 #### Stacked Auto-encoders
 
