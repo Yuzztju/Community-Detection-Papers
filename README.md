@@ -117,6 +117,7 @@
     *Soumyasundar Pal and Mark Coates.*
 
 2. **Copula mixed-membership stochastic block model** IJCAI 2016. [paper](http://ijcai.org/Proceedings/16/Papers/210.pdf)
+
     *Xuhui Fan, Richard Yi Da Xu, Longbing Cao.*
 
 3. **Mixed membership stochastic blockmodels** Journal of Machine Learning Research 2008. [paper](https://www.jmlr.org/papers/volume9/airoldi08a/airoldi08a.pdf)
@@ -140,9 +141,11 @@
 #### [DynSBM](#content)
 
 1. **Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel** AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6148)
+
     *Zheng Yu, Xuhui Fan, Marcin Pietrasik, Marek Z. Reformat.*
     
 2. **Change point estimation in a dynamic stochastic block model** Journal of Machine Learning Research. 2020 [paper](https://arxiv.org/pdf/1812.03090.pdf)
+
     *Monika Bhattacharjee, Moulinath Banerjee, George Michailidis.*
     
 3. **Dynamic Stochastic Block Model with Scale-Free Characteristic for Temporal Complex Networks** DASFAA 2019. [paper](http://link.springer.com/chapter/10.1007/978-3-030-18579-4_30)
@@ -150,9 +153,11 @@
     *Xunxun Wu and Pengfei Jiao and Yaping Wang and Tianpeng Li and Wenjun Wang and Bo Wang.*
 
 4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model** arxiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
+
     *James D. Wilson，Nathaniel T. Stevens，William H. Woodall.*
     
 5. **Stochastic Block Transition Models for Dynamic Networks** AISTATS 2015. [paper](https://arxiv.org/pdf/1411.5404.pdf)
+
     *Kevin S. Xu.*
 
 6. **Detecting social media hidden communities using dynamic stochastic blockmodel with temporal dirichlet process** TIST 2014. [paper](https://dl.acm.org/doi/10.1145/2517085)
@@ -221,18 +226,18 @@
 
 #### [combining topic model with Bayesian model](#content)  
 
-5. **A model-based approach to attributed graph clustering** SIGMOD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2213836.2213894)
-
-    *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng.*
-  
-4. **Joint identification of network communities and semantics via integrative modeling of network topologies and node contents** AAAI 2017. 
-
-    *Dongxiao He, Zhiyong Feng, Di Jin, Xiaobao Wang, Weixiong Zhang.*
-    
 1. **Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics.** TKDE 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)
 
     *Di Jin, Kunzeng Wang, Ge Zhang, Pengfei Jiao, Dongxiao He, Françoise Fogelman{-}Souli{\'{e}}, Xin Huang.*
 
+4. **Joint identification of network communities and semantics via integrative modeling of network topologies and node contents** AAAI 2017. 
+
+    *Dongxiao He, Zhiyong Feng, Di Jin, Xiaobao Wang, Weixiong Zhang.*
+
+5. **A model-based approach to attributed graph clustering** SIGMOD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2213836.2213894)
+
+    *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng.*
+    
 
 #### [Topic embedding methods](#content)  
 
