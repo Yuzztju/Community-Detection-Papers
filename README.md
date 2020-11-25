@@ -74,65 +74,63 @@
     *Duncan J. Watts, Steven H. Strogatz.*
 
 ## [Matrix Factorization-based Methods](#content)
-
-1. **Semi-supervised community detection based on non-negative matrix factorization with node popularity.** Inf. Sci. 2017. [paper](https://www.sciencedirect.com/science/article/pii/S0020025516318709)
-
-    *Xiao Liu, Wenjun Wang, Dongxiao He, Pengfei Jiao, Di Jin and Carlo Vittorio Cannistraci.*
-
-
-2. **A Unified Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization.** AAAI 2019.
+1. **A Unified Semi-Supervised Community Detection Framework Using Latent Space Graph Regularization.** AAAI 2019.
  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6985550)
 
     *Liang Yang, Xiaochun Cao, Di Jin, Xiao Wang and Dan Meng.*
+
+2. **Semi-supervised community detection based on non-negative matrix factorization with node popularity.** Inf. Sci. 2017. [paper](https://www.sciencedirect.com/science/article/pii/S0020025516318709)
+
+    *Xiao Liu, Wenjun Wang, Dongxiao He, Pengfei Jiao, Di Jin and Carlo Vittorio Cannistraci.*
 
 3. **Evolutionary Nonnegative Matrix Factorization Algorithms for Community Detection in Dynamic Networks.** TKDE 2017. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7831395)
 
     *Xiaoke Ma, Di Dong.*
 
-4. **Autonomous overlapping community detection in temporal networks: A dynamic Bayesian nonnegative matrix factorization approach.**  KBS 2016. [paper](https://reader.elsevier.com/reader/sd/pii/S0950705116302350?token=1F3E0DFFE8BA576C15F2654D8318D892EB4267ACDA3E0962BF5487B25E841834D2FF2B7E4EEBEC54EB46F85635636859)
+4. **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection.** CIKM 2017. [paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
+
+    *Bingjie Sun, Huawei Shen, Jinhua Gao, Wentao Ouyang and Xueqi Cheng.*
+
+5. **Autonomous overlapping community detection in temporal networks: A dynamic Bayesian nonnegative matrix factorization approach.**  KBS 2016. [paper](https://reader.elsevier.com/reader/sd/pii/S0950705116302350?token=1F3E0DFFE8BA576C15F2654D8318D892EB4267ACDA3E0962BF5487B25E841834D2FF2B7E4EEBEC54EB46F85635636859)
 
     *Wenjun Wang, Pengfei Jiao, Dongxiao He, Di Jin, Lin Pan and Bogdan Gabrys.*
-
-5. **Semantic Community Identification in Large Attribute Networks.** AAAI 2016. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1086.6777&rep=rep1&type=pdf)
-
-    *Xiao Wang, Di Jin, Xiaochun Cao, Liang Yang and Weixiong Zhang.*
-
-6. **Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks.** IJCAI 2015. [paper](https://www.ijcai.org/Proceedings/15/Papers/295.pdf)
-
-    *Yulong Pei, Nilanjan Chakraborty, Katia P. Sycara.*
-
-7. **Modeling the Homophily Effect between Links and Communities for Overlapping Community Detection.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/554.pdf)
+    
+6. **Modeling the Homophily Effect between Links and Communities for Overlapping Community Detection.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/554.pdf)
 
     *Hongyi Zhang, Tong Zhao, Irwin King and Michael R. Lyu.*
 
-8. **Incorporating Implicit Link Preference Into Overlapping Community Detection.** AAAI 2015. [paper](https://dl.acm.org/doi/abs/10.5555/2887007.2887063)
+7. **Semantic Community Identification in Large Attribute Networks.** AAAI 2016. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1086.6777&rep=rep1&type=pdf)
+
+    *Xiao Wang, Di Jin, Xiaochun Cao, Liang Yang and Weixiong Zhang.*
+
+8. **Nonnegative Matrix Tri-Factorization with Graph Regularization for Community Detection in Social Networks.** IJCAI 2015. [paper](https://www.ijcai.org/Proceedings/15/Papers/295.pdf)
+
+    *Yulong Pei, Nilanjan Chakraborty, Katia P. Sycara.*
+
+9. **Incorporating Implicit Link Preference Into Overlapping Community Detection.** AAAI 2015. [paper](https://dl.acm.org/doi/abs/10.5555/2887007.2887063)
 
     *Hongyi Zhang, Irwin King, Michael R. Lyu.*
 
-9. **Identifying overlapping communities as well as hubs and outliers via nonnegative matrix factorization.** Scientific Reports 2013. [paper](https://www.nature.com/articles/srep02993.pdf)
+10. **Community Detection in Social Network with Pairwisely Constrained Symmetric Non-Negative Matrix Factorization.** ASONAM 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2808797.2809383)
+
+    *Xiaohua Shi, Hongtao Lu, Yangcheng He and Shan He.*
+
+11. **Symmetric Nonnegative Matrix Factorization for Graph Clustering.** ASONAM 2015. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972825.10)
+
+    *Da Kuang, Haesun Park, Chris H. Q. Ding.*
+
+12. **Identifying overlapping communities as well as hubs and outliers via nonnegative matrix factorization.** Scientific Reports 2013. [paper](https://www.nature.com/articles/srep02993.pdf)
 
     *Xiaochun Cao, Xiao Wang, Di Jin, Yixin Cao and Dongxiao He.*
 
-10. **Overlapping community detection at scale: a nonnegative matrix factorization approach.** WSDM 2013.
+13. **Overlapping community detection at scale: a nonnegative matrix factorization approach.** WSDM 2013.
  [paper](http://i.stanford.edu/~crucis/pubs/paper-nmfagm.pdf)
 
     *Jaewon Yang, Jure Leskovec*
 
-11. **Community discovery using nonnegative matrix factorization.** DMKD 2011. [paper](https://www.researchgate.net/profile/Shenghuo_Zhu/publication/220451825_Community_discovery_using_nonnegative_matrix_factorization/links/0c960522670bb2e4f7000000.pdf)
+14. **Community discovery using nonnegative matrix factorization.** DMKD 2011. [paper](https://www.researchgate.net/profile/Shenghuo_Zhu/publication/220451825_Community_discovery_using_nonnegative_matrix_factorization/links/0c960522670bb2e4f7000000.pdf)
 
     *Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu and Chris H. Q. Ding.*
-
-12. **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection.** CIKM 2017. [paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
-
-    *Bingjie Sun, Huawei Shen, Jinhua Gao, Wentao Ouyang and Xueqi Cheng.*
-
-13. **Community Detection in Social Network with Pairwisely Constrained Symmetric Non-Negative Matrix Factorization.** ASONAM 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2808797.2809383)
-
-    *Xiaohua Shi, Hongtao Lu, Yangcheng He and Shan He.*
-
-14. **Symmetric Nonnegative Matrix Factorization for Graph Clustering.** ASONAM 2015. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972825.10)
-
-    *Da Kuang, Haesun Park, Chris H. Q. Ding.*
 
 ## [Undirected Graphical Models](#content)
 
