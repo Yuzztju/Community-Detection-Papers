@@ -1,6 +1,6 @@
 [Survey papers](#content)
 -------  
 
-1. **Modularity based community detection with deep learning.** IJCA 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
+1. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
 
-    *L. Yang, X. Cao, D. He, C. Wang, X. Wang, and W. Zhang*
+    *	Charu C. Aggarwal, Haixun Wang.*
