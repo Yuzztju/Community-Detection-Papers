@@ -30,15 +30,11 @@ Contributed by XX, XX and XX.
 </tr>
 <tr><td colspan="2"><a href="#Applications">4. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Online Social Network</a></td>
-    <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">4.2 Neuroscience</a></td>
+    <td>&emsp;&ensp;<a href="#Online Social Network & Neuroscience">4.1 Online Social Network & Neuroscience</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Graph-Convolutional-Network-based-Methods">4.3 Recommendation</a></td>
+    <td>&emsp;&ensp;<a href="#Recommendation & Link Prediction">4.2 Recommendation & Link Prediction</a></td>
 </tr> 
-<tr>
-    <td>&emsp;&ensp;<a href="#Integrating-Graph-Convolutional-Network-and-Undirected-Graphical-Models">4.4 Link Prediction</a></td>
-</tr>
 </table>
 
 [Survey papers](#content)
