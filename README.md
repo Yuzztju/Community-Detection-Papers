@@ -163,18 +163,24 @@
 
 [Applications](#content)
 === 
+## [On Social Network](#content)
+1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. 
+
+    *Yongji Wu, Defu Lian, Yiheng Xu, Le Wu and Enhong Chen.*
+    
+2. **Robust Detection of Link Communities in Large Social Networks by Exploiting Link Semantics.** AAAI 2018. 
+
+    *Di Jin, Xiaobao Wang, Ruifang He, Dongxiao He, Jianwu Dang and Weixiong Zhang.*
+    
 ## [Neuroscience](#content)
 
-1. **Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks.** BigData 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9005586)
-
-    *Jiahao Liu, Guixiang Ma, Fei Jiang, Chun-Ta Lu, Philip S. Yu and Ann B. Ragin.*
-
-1. **Multiscale Community Detection in Functional Brain Networks Constructed Using Dynamic Time Warping.** IEEE T NEUR SYS REH 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8873632)
+1. **Multiscale Community Detection in Functional Brain Networks Constructed Using Dynamic Time Warping.** IEEE T. Neur. Sys. Reh. 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8873632)
 
     *Di Jin, Rui Li, Junhai Xu.*
     
-    
+2. **Community-preserving Graph Convolutions for Structural and Functional Joint Embedding of Brain Networks.** BigData 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9005586)
 
+    *Jiahao Liu, Guixiang Ma, Fei Jiang, Chun-Ta Lu, Philip S. Yu and Ann B. Ragin.*
     
 ## [Recommendation](#content)
 
@@ -199,6 +205,7 @@
 2. **Discriminative Link Prediction using Local, Community, and Global Signals.** TKDE 2016. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7456301)
 
     *Abir De, Sourangshu Bhattacharya, Sourav Sarkar, Niloy Ganguly and Soumen Chakrabarti.*
+
 
 
 
