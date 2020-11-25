@@ -28,7 +28,7 @@ Contributed by XX, XX and XX.
 <tr>
     <td>&emsp;&ensp;<a href="#Integrating-Graph-Convolutional-Network-and-Undirected-Graphical-Models">3.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
 </tr>
-<tr>&emsp;&ensp;<a href="#Community Deteciton With Deep Learning">4. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#Applications">4. Applications</a></td></tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Online Social Network</a></td>
     <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">4.2 Neuroscience</a></td>
