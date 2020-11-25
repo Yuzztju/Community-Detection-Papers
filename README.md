@@ -12,4 +12,8 @@
 3. **Emergence of Scaling in Random Networks.** Science 1999. [paper](https://science.sciencemag.org/content/286/5439/509.full)
 
     *Albert-László Barabási, Réka Albert.*
+
+4. **Community structure in social and biological networks.** PNAS 2002. [paper](https://www.pnas.org/content/pnas/99/12/7821.full.pdf)
+
+    *Michelle Girvan, Mark E. J. Newman*
     
