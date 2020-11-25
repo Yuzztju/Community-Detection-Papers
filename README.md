@@ -103,14 +103,6 @@
 
     *Michelle Girvan, Mark E. J. Newman.*
     
-16. **Emergence of Scaling in Random Networks.** Science 1999. [paper](https://science.sciencemag.org/content/286/5439/509.full)
-
-    *Albert-László Barabási, Réka Albert.*
-    
-17. **Collective dynamics of ‘small-world’ networks.** Nature 1998. [paper](https://www.nature.com/articles/30918)
-
-    *Duncan J. Watts, Steven H. Strogatz.*
-    
 [Community Detection With Probabilistic Graphical Model](#content)
 -------  
 
