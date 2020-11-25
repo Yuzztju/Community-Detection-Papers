@@ -58,50 +58,9 @@
 
     *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
 
-5. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
+6. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
 
     *Bianfang Chai，Caiyan Jia，Jian Yu.*
-
-
-2. **Overlapping Community Detection with Graph Neural Networks.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.12201.pdf)
-
-    *Oleksandr Shchur, Stephan Günnemann.*
-
-3. **Multiobjective Optimization and Local Merge for Clustering Attributed Graphs.** IEEE Trans. Cybern. 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618599)
-
-    *Clara Pizzuti, Annalisa Socievole.*
-
-4. **A Multiobjective Evolutionary Algorithm Based on Structural and Attribute Similarities for Community Detection in Attributed Networks.** IEEE Trans. Cybern. 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011493)
-
-    *Zhangtao Li, Jing Liu, Kai Wu.*
-    
-5. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
-
-    *Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang and Weixiong Zhang.*
-    
-7. **Defining and identifying cograph communities in complex networks.** New Journal of Physics 2015. [paper](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/013044/pdf)
-
-    *Songwei Jia, Lin Gao, Yong Gao, James Nastos, Yijie Wang, Xindong Zhang and Haiyang Wang.*
-
-8. **Bayesian Approach to Modeling and Detecting Communities in Signed Network.** AAAI 2015. 
-
-    *Bo Yang, Xuehua Zhao, Xueyan Liu.*
-    
-9. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://dl.acm.org/doi/10.5555/2887007.2887026)
-
-    *Dongxiao He, Dayou Liu, Di Jin and Weixiong Zhang.*    
-    
-10. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
-
-    *Yixuan Li, Kun He, David Bindel and John E. Hopcroft.*
-    
-14. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
-
-    *Charu C. Aggarwal, Haixun Wang.*
-    
-15. **Community structure in social and biological networks.** PNAS 2002. [paper](https://www.pnas.org/content/pnas/99/12/7821.full.pdf)
-
-    *Michelle Girvan, Mark E. J. Newman.*
     
 [Community Detection With Probabilistic Graphical Model](#content)
 -------  
