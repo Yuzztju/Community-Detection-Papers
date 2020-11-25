@@ -5,17 +5,17 @@ Contributed by XX, XX and XX.
 ## [Content](#content)
 <table>
 <tr><td colspan="2"><a href="#ch1">1. Introduction</a></td></tr> 
-<tr><td colspan="2"><a href="#ch3">3. COMMUNITY DETECTION WITH PROBABILISTIC GRAPHICAL MODEL</a></td></tr> 
+<tr><td colspan="2"><a href="#ch3">3. Community Detection With Probabilistic Graphical Model</a></td></tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#DGM">3.1 Directed Graphical Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#UGM">3.2 Undirected Graphical Mode</a></td>
+    <td>&emsp;&ensp;<a href="#UGM">3.2 Undirected Graphical Models</a></td>
 </tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#DMUM">3.3 Integrating Directed and Undirected Models</a></td>
 </tr>
-<tr><td colspan="2"><a href="#COMMUNITY-DETECTION-WITH-DEEP-LEARNING">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
+<tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">4. Community Deteciton With Deep Learning</a></td></tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Auto-encoder-based Methods</a></td>
 </tr> 
