@@ -3,7 +3,6 @@
 
 1. **Interaction Networks for Learning about Objects, Relations and Physics**
 *Peter W. Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu* NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
-*Peter Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu* NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
 
 1. **A Compositional Object-Based Approach to Learning Physical Dynamics**
 *Michael B. Chang, Tomer Ullman, Antonio Torralba, Joshua B. Tenenbaum* ICLR 2017. [paper](https://arxiv.org/pdf/1612.00341.pdf)
