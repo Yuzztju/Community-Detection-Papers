@@ -31,8 +31,6 @@ Contributed by XX, XX and XX.
 <tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">4. Applications</a></td></tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Online Social Network</a></td>
-</tr> 
-<tr>
     <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">4.2 Neuroscience</a></td>
 </tr> 
 <tr>
