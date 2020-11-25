@@ -163,7 +163,7 @@
 
 [Applications](#content)
 === 
-## [On Social Network](#content)
+## [Online Social Network](#content)
 1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. 
 
     *Yongji Wu, Defu Lian, Yiheng Xu, Le Wu and Enhong Chen.*
