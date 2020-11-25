@@ -162,7 +162,7 @@
     *Zi Yang, Jie Tang, Juanzi Li and Wenjun Yang.*
 
 [Applications](#content)
--------  
+=== 
 ## [Recommendation](#content)
 
 1. **SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter.** KDD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370)
