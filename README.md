@@ -64,8 +64,9 @@
     
 [Community Detection With Probabilistic Graphical Model](#content)
 -------  
+## [Directed Graphical Models](#content)
 
-## [Matrix Factorization-based Methods](#content)
+### [Matrix Factorization-based Methods](#content)
 #### Basic NMF 
 1. **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection.** CIKM 2017. [paper](http://www.bigdatalab.ac.cn/~shenhuawei/publications/2017/cikm-sun.pdf)
 
