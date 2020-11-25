@@ -86,7 +86,7 @@
 
     *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
 
-12. **Clustering and Community Detection in Directed Networks: A Survey.**  arXiv. 2013. [paper](https://arxiv.org/pdf/1308.0971.pdf)
+12. **Clustering and Community Detection in Directed Networks: A Survey.**  arXiv 2013. [paper](https://arxiv.org/pdf/1308.0971.pdf)
 
     *Fragkiskos D. Malliaros, Michalis Vazirgiannis.*
 
@@ -94,7 +94,7 @@
 
     *B. Padma Priya, K. Sathiyakumari.*
 
-14. **Overview of Community Detection Models on Statistical Inference.**  Computer Science. 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
+14. **Overview of Community Detection Models on Statistical Inference.**  Computer Science 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
 
     *Bianfang Chai，Caiyan Jia，Jian Yu.*
     
