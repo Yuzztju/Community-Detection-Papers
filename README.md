@@ -1,7 +1,7 @@
 # Must-read papers on community detection 
 
-[Content](#content)
--------  
+# [Content](#content)
+
 <table>
 <tr><td colspan="2"><a href="#ch1">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#ch3">2. Community Detection With Probabilistic Graphical Model</a></td></tr> 
