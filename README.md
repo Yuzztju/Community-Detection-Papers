@@ -168,13 +168,13 @@
 
     *Kevin S Xu, Alfred Hero.* 
 
-8. **Dynamic mixed membership blockmodel for evolving networks** ICML 2009. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4703&rep=rep1&type=pdf)
-
-    *Wenjie Fu, Le Song, Eric P. Xing.* 
-
-9. **Detecting communities and their evolutions in dynamic social networks - a Bayesian approach** Machine Learning 2011. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.1069&rep=rep1&type=pdf)
+8. **Detecting communities and their evolutions in dynamic social networks - a Bayesian approach** Machine Learning 2011. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.1069&rep=rep1&type=pdf)
 
     *Tianbao Yang, Yun Chi, Shenghuo Zhu, Yihong Gong and Rong Jin.* 
+    
+9. **Dynamic mixed membership blockmodel for evolving networks** ICML 2009. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4703&rep=rep1&type=pdf)
+
+    *Wenjie Fu, Le Song, Eric P. Xing.* 
     
 10. **A state-space mixed membership blockmodel for dynamic network tomography** arXiv 2008. [paper](https://arxiv.org/abs/0901.0135v2)
 
