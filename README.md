@@ -1,7 +1,5 @@
 # Must-read papers on community detection 
 
-Contributed by Zhizhi Yu, Zhilu Wang, Biaoren Wang and Yingli Gong.
-
 ## [Content](#content)
 <table>
 <tr><td colspan="2"><a href="#ch1">1. Survey</a></td></tr> 
