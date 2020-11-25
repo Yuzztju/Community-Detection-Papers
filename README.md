@@ -112,7 +112,7 @@
 
     *Duncan J. Watts, Steven H. Strogatz.*
 
-## Integrating Directed and Undirected Models
+## [Integrating Directed and Undirected Models](#content)
 
 1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019: 5730-5736. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
 
@@ -132,7 +132,7 @@
 
     *Zi Yang, Jie Tang, Juanzi Li, Wenjun Yang*
 
-## Undirected Graphical Models
+## [Undirected Graphical Models](#content)
 
 1. **ModMRF: A modularity-based Markov Random Field method for community detection.** Neurocomputing 405: 218-228 (2020).
  [paper](https://reader.elsevier.com/reader/sd/pii/S0925231220306524?token=9482729198D411487425CAFAF963F09EED1669AD7C0A19B2A79F2BC3A3DD84DFE32759174AFC17798BF6DF3565CB053A)
@@ -149,7 +149,7 @@
 
     *Dongxiao He, Xinxin You, Zhiyong Feng, Di Jin, Xue Yang, Weixiong Zhang*
 
-## Matrix Factorization-based Methods
+## [Matrix Factorization-based Methods](#content)
 
 1. **Semi-supervised community detection based on non-negative matrix factorization with node popularity.** Inf. Sci. 381: 304-321 (2017).
  [paper](https://www.sciencedirect.com/science/article/pii/S0020025516318709)
