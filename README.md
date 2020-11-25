@@ -3,26 +3,10 @@
 2. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/693)
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
-    
-2. **Adversarial Attack on Community Detection by Hiding Individuals.** WWW 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380171)
-
-    *Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng, Junzhou Huang.*
-
-2. **Supervised Community Detection with Line Graph Neural Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)
-
-    *Zhengdao Chen, Lisha Li, Joan Bruna.*
 
 2. **Overlapping Community Detection with Graph Neural Networks.** arXiv 2019. [paper](https://arxiv.org/pdf/1909.12201.pdf)
 
     *  Oleksandr Shchur, Stephan Günnemann.*
-
-2. **Community Detection via Joint Graph Convolutional Network Embedding in Attribute Network.** ICANN 2019. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-30493-5_55)
-
-    * Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He, Hongyu Shan.*
-    
-2. **CommunityGAN: Community Detection with Generative Adversarial Nets.** WWW 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313564)
-
-    *Yuting Jia, Qinqin Zhang, Weinan Zhang, Xinbing Wang.*
 
 2. **Multiobjective Optimization and Local Merge for Clustering Attributed Graphs.** IEEE Trans. Cybern. 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618599)
 
@@ -31,18 +15,6 @@
 2. **A Multiobjective Evolutionary Algorithm Based on Structural and Attribute Similarities for Community Detection in Attributed Networks.** IEEE Trans. Cybern. 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011493)
 
     *Zhangtao Li, Jing Liu, Kai Wu.*
-    
-2. **Semi-Supervised Classification with Graph Convolutional Networks.** ICLR 2017. [paper](https://openreview.net/pdf?id=SJU4ayYgl)
-
-    *Thomas N. Kipf, Max Welling.*
-    
-2. **MGAE: Marginalized Graph Autoencoder for Graph Clustering.** CIKM 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132967)
-
-    *	Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu and Jing Jiang.*
-
-2. **A Non-negative Symmetric Encoder-Decoder Approach for Community Detection.** CIKM 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3132847.3132902)
-
-    *Bing-Jie Sun, Huawei Shen, Jinhua Gao, Wentao Ouyang and Xueqi Cheng.*
     
 6. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
@@ -67,14 +39,6 @@
 7. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
 
     *Yixuan Li, Kun He, David Bindel, John E. Hopcroft.*
-    
-8. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
-
-    *Yixuan Li, Kun He, David Bindel, John E. Hopcroft.*
-    
-2. **A tensor approach to learning mixed membership community models.**  J. Mach. Learn. Res. 2014. [paper](https://dl.acm.org/doi/pdf/10.5555/2627435.2670323)
-
-    *Animashree Anandkumar, Rong Ge, Daniel J. Hsu, Sham M. Kakade.*
 
 2. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
@@ -87,14 +51,6 @@
 2. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
 
     *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
-
-2. **Overlapping community detection via bounded nonnegative matrix tri-factorization.** KDD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2339530.2339629)
-
-    *Yu Zhang, Dit-Yan Yeung.*
-    
-2. **Community discovery using nonnegative matrix factorization.** DMKD 2011. [paper](https://dl.acm.org/doi/10.1007/s10618-010-0181-y)
-
-    *Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu, Chris Ding.*
     
 1. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
 
@@ -111,39 +67,6 @@
 2. **Collective dynamics of ‘small-world’ networks.** Nature 1998. [paper](https://www.nature.com/articles/30918)
 
     *Duncan J. Watts, Steven H. Strogatz.*
-
-## [Integrating Directed and Undirected Models](#content)
-
-1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019: 5730-5736. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
-
-    *Dongxiao He, Wenze Song, Di Jin, Zhiyong Feng, Yuxiao Huang*
-
-2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014: 223-230. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
-
-    *Yusheng Jia, Yang Gao, Wanqi Yang, Jing Huo, Yinghuan Shi*
-
-3. **Social Community Analysis via a Factor Graph Model.** IEEE Intell. Syst. 26(3): 58-65 (2011).
- [paper](https://www.researchgate.net/profile/Juanzi_Li/publication/220628742_Social_Community_Analysis_via_a_Factor_Graph_Model/links/55ade73308aee079921e3f15/Social-Community-Analysis-via-a-Factor-Graph-Model.pdf)
-
-    *Zi Yang, Jie Tang, Juanzi Li, Wenjun Yang*
-
-
-## [Undirected Graphical Models](#content)
-
-1. **ModMRF: A modularity-based Markov Random Field method for community detection.** Neurocomputing 405: 218-228 (2020).
- [paper](https://reader.elsevier.com/reader/sd/pii/S0925231220306524?token=9482729198D411487425CAFAF963F09EED1669AD7C0A19B2A79F2BC3A3DD84DFE32759174AFC17798BF6DF3565CB053A)
-
-    *Di Jin, Binbin Zhang, Yue Song, Dongxiao He, Zhiyong Feng, Shizhan Chen, Weihao Li, Katarzyna Musial*
-
-2. **Incorporating Network Embedding into Markov Random Field for Better Community Detection.** AAAI 2019: 160-167.
- [paper](https://sci-hub.se/https://doi.org/10.1609/aaai.v33i01.3301160)
-
-    *Di Jin, Xinxin You, Weihao Li, Dongxiao He, Peng Cui, Françoise Fogelman-Soulié, Tanmoy Chakraborty*
-
-3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018: 306-313.
- [paper](https://openreview.net/forum?id=ryW1MybO-H)
-
-    *Dongxiao He, Xinxin You, Zhiyong Feng, Di Jin, Xue Yang, Weixiong Zhang*
 
 ## [Matrix Factorization-based Methods](#content)
 
@@ -218,18 +141,39 @@
 
     *Da Kuang, Haesun Park, Chris H. Q. Ding*
 
+## [Undirected Graphical Models](#content)
 
-	
+1. **ModMRF: A modularity-based Markov Random Field method for community detection.** Neurocomputing 405: 218-228 (2020).
+ [paper](https://reader.elsevier.com/reader/sd/pii/S0925231220306524?token=9482729198D411487425CAFAF963F09EED1669AD7C0A19B2A79F2BC3A3DD84DFE32759174AFC17798BF6DF3565CB053A)
+
+    *Di Jin, Binbin Zhang, Yue Song, Dongxiao He, Zhiyong Feng, Shizhan Chen, Weihao Li, Katarzyna Musial*
+
+2. **Incorporating Network Embedding into Markov Random Field for Better Community Detection.** AAAI 2019: 160-167.
+ [paper](https://sci-hub.se/https://doi.org/10.1609/aaai.v33i01.3301160)
+
+    *Di Jin, Xinxin You, Weihao Li, Dongxiao He, Peng Cui, Françoise Fogelman-Soulié, Tanmoy Chakraborty*
+
+3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018: 306-313.
+ [paper](https://openreview.net/forum?id=ryW1MybO-H)
+
+    *Dongxiao He, Xinxin You, Zhiyong Feng, Di Jin, Xue Yang, Weixiong Zhang*
+
+## [Integrating Directed and Undirected Models](#content)
+
+1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019: 5730-5736. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
+
+    *Dongxiao He, Wenze Song, Di Jin, Zhiyong Feng, Yuxiao Huang*
+
+2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014: 223-230. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
+
+    *Yusheng Jia, Yang Gao, Wanqi Yang, Jing Huo, Yinghuan Shi*
+
+3. **Social Community Analysis via a Factor Graph Model.** IEEE Intell. Syst. 26(3): 58-65 (2011).
+ [paper](https://www.researchgate.net/profile/Juanzi_Li/publication/220628742_Social_Community_Analysis_via_a_Factor_Graph_Model/links/55ade73308aee079921e3f15/Social-Community-Analysis-via-a-Factor-Graph-Model.pdf)
+
+    *Zi Yang, Jie Tang, Juanzi Li, Wenjun Yang*
 
 
-
-
-
-
-
-
-
-	
 
 
 
