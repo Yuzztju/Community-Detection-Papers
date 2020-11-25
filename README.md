@@ -42,6 +42,10 @@
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
 
+1. **CDLIB: a python library to extract, compare and evaluate communities from complex networks.** Appl. Netw. Sci 2019. [paper](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0165-9)
+
+    *Giulio Rossetti, Letizia Milli, Rémy Cazabet.*
+
 2. **Tracking community evolution in social networks: A survey.** Inf. Process. Manag. 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0306457317305551)
 
     *Narimene Dakiche, Fatima Benbouzid-Si Tayeb, Yahya Slimani and Karima Benatchba.*
