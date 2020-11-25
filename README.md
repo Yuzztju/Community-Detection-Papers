@@ -1,6 +1,6 @@
-# A title
+# Must-read papers on community detection 
 
-Contributed by XX, XX and XX.
+Contributed by Zhizhi Yu, Zhilu Wang, Biaoren Wang and Yingli Gong.
 
 ## [Content](#content)
 <table>
