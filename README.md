@@ -21,7 +21,11 @@
 
     *Songwei Jia, Lin Gao, Yong Gao, James Nastos, Yijie Wang, Xindong Zhang and Haiyang Wang.*
     
-6. **Defining and identifying cograph communities in complex networks.** New Journal of Physics 2015. [paper](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/013044/pdf)
+6. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
-    *Songwei Jia, Lin Gao, Yong Gao, James Nastos, Yijie Wang, Xindong Zhang and Haiyang Wang.*
+    *Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, Weixiong Zhang.*
+    
+7. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
+
+    *Yixuan Li, Kun He, David Bindel, John E. Hopcroft.*
     
