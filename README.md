@@ -1,6 +1,6 @@
 [Survey papers](#content)
 -------  
-2. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/693)
+1. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/693)
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
 
@@ -8,63 +8,63 @@
 
     *  Oleksandr Shchur, Stephan Günnemann.*
 
-2. **Multiobjective Optimization and Local Merge for Clustering Attributed Graphs.** IEEE Trans. Cybern. 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618599)
+3. **Multiobjective Optimization and Local Merge for Clustering Attributed Graphs.** IEEE Trans. Cybern. 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8618599)
 
     *Clara Pizzuti, Annalisa Socievole.*
 
-2. **A Multiobjective Evolutionary Algorithm Based on Structural and Attribute Similarities for Community Detection in Attributed Networks.** IEEE Trans. Cybern. 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011493)
+4. **A Multiobjective Evolutionary Algorithm Based on Structural and Attribute Similarities for Community Detection in Attributed Networks.** IEEE Trans. Cybern. 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8011493)
 
     *Zhangtao Li, Jing Liu, Kai Wu.*
     
-6. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
+5. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
     *Liang Yang, Xiaochun Cao, Dongxiao He, Chuan Wang, Xiao Wang, Weixiong Zhang.*
     
-2. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
+6. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
 
     *Tanja Hartmann，Andrea Kappes，Dorothea Wagner.*
     
-5. **Defining and identifying cograph communities in complex networks.** New Journal of Physics 2015. [paper](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/013044/pdf)
+7. **Defining and identifying cograph communities in complex networks.** New Journal of Physics 2015. [paper](https://iopscience.iop.org/article/10.1088/1367-2630/17/1/013044/pdf)
 
     *Songwei Jia, Lin Gao, Yong Gao, James Nastos, Yijie Wang, Xindong Zhang and Haiyang Wang.*
 
-2. **Bayesian Approach to Modeling and Detecting Communities in Signed Network.** AAAI 2015. 
+8. **Bayesian Approach to Modeling and Detecting Communities in Signed Network.** AAAI 2015. 
 
     *Bo Yang, Xuehua Zhao, Xueyan Liu.*
     
-2. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://dl.acm.org/doi/10.5555/2887007.2887026)
+9. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://dl.acm.org/doi/10.5555/2887007.2887026)
 
     *Dongxiao He, Dayou Liu, Di Jin, Weixiong Zhang.*    
     
-7. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
+10. **Uncovering the Small Community Structure in Large Networks: A Local Spectral Approach.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741676)
 
     *Yixuan Li, Kun He, David Bindel, John E. Hopcroft.*
 
-2. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
+11. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
     *Charu C. Aggarwal, Karthik Subbian.*
 
-2. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
+12. **Clustering and Community Detection in Directed Networks: A Survey.** Physics Reports 2013. [paper](https://www.sciencedirect.com/science/article/pii/S0370157313002822)
 
     *Fragkiskos D. Malliaros，Michalis Vazirgiannis.*
     
-2. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
+13. **Overlapping community detection in networks: The state-of-the-art and comparative study.**  ACM Comput. Surv. 2013. [paper](https://dl.acm.org/doi/pdf/10.1145/2501654.2501657)
 
     *Jierui Xie, Stephen Kelley, Boleslaw K. Szymanski.*
     
-1. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
+14. **Managing and Mining Graph Data.** Advances in Database Systems 2010. [book](https://link.springer.com/book/10.1007%2F978-1-4419-6045-0)
 
     *Charu C. Aggarwal, Haixun Wang.*
     
-4. **Community structure in social and biological networks.** PNAS 2002. [paper](https://www.pnas.org/content/pnas/99/12/7821.full.pdf)
+15. **Community structure in social and biological networks.** PNAS 2002. [paper](https://www.pnas.org/content/pnas/99/12/7821.full.pdf)
 
     *Michelle Girvan, Mark E. J. Newman.*
     
-3. **Emergence of Scaling in Random Networks.** Science 1999. [paper](https://science.sciencemag.org/content/286/5439/509.full)
+16. **Emergence of Scaling in Random Networks.** Science 1999. [paper](https://science.sciencemag.org/content/286/5439/509.full)
 
     *Albert-László Barabási, Réka Albert.*
     
-2. **Collective dynamics of ‘small-world’ networks.** Nature 1998. [paper](https://www.nature.com/articles/30918)
+17. **Collective dynamics of ‘small-world’ networks.** Nature 1998. [paper](https://www.nature.com/articles/30918)
 
     *Duncan J. Watts, Steven H. Strogatz.*
 
