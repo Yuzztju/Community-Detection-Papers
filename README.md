@@ -456,7 +456,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
      
      *Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He and Hongyu Shan.*
      
-1. **Heterogeneous graph convolutional networks for temporal community detection.** CoRR 2019. [paper](https://arxiv.org/abs/1909.10248)
+1. **Heterogeneous graph convolutional networks for temporal community detection.** arXiv 2019. [paper](https://arxiv.org/abs/1909.10248)
      
      *Yaping Zheng, Shiyi Chen, Xiaofeng Zhang and Di Wang.*
    
