@@ -219,7 +219,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### Use social network attributes
 
-1. **Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling.** TIST 2012 [paper](https://dl.acm.org/doi/pdf/10.1145/2337542.2337548)
+1. **Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling.** TIST 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2337542.2337548)
 
     *Zhijun Yin, Liangliang Cao, Quanquan Gu and Jiawei Han.*
     
@@ -321,7 +321,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 ## [Undirected Graphical Models](#content)
 
 1. **ModMRF: A modularity-based Markov Random Field method for community detection.** Neurocomputing 2020.
- [paper](https://reader.elsevier.com/reader/sd/pii/S0925231220306524?token=9482729198D411487425CAFAF963F09EED1669AD7C0A19B2A79F2BC3A3DD84DFE32759174AFC17798BF6DF3565CB053A)
+ [paper] (https://reader.elsevier.com/reader/sd/pii/S0925231220306524?token=9482729198D411487425CAFAF963F09EED1669AD7C0A19B2A79F2BC3A3DD84DFE32759174AFC17798BF6DF3565CB053A)
 
     *Di Jin, Binbin Zhang, Yue Song, Dongxiao He, Zhiyong Feng, Shizhan Chen, Weihao Li and Katarzyna Musial.*
 
@@ -329,17 +329,17 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Di Jin, Xinxin You, Weihao Li, Dongxiao He, Peng Cui, Françoise Fogelman-Soulié and Tanmoy Chakraborty.*
 
-3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018. [paper](https://openreview.net/forum?id=ryW1MybO-H)
+3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018. [paper] (https://openreview.net/forum?id=ryW1MybO-H)
 
     *Dongxiao He, Xinxin You, Zhiyong Feng, Di Jin, Xue Yang and Weixiong Zhang.*
 
 ## [Integrating Directed and Undirected Models](#content)
 
-1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019. [paper (https://www.ijcai.org/Proceedings/2019/0794.pdf)
+1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019. [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
 
     *Dongxiao He, Wenze Song, Di Jin, Zhiyong Feng and Yuxiao Huang.*
 
-2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014. [paper](https://www.ijcai.org/Proceedings/2019/0794.pdf)
+2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014. [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
 
     *Yusheng Jia, Yang Gao, Wanqi Yang, Jing Huo and Yinghuan Shi.*
 
