@@ -200,13 +200,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 12. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://www.cse.wustl.edu/~zhang/publications/stocModelaaai15.pdf)
 
-    *Dongxiao He and Dayou Liu and Di Jin and Weixiong Zhang.*
+    *Dongxiao He, Dayou Liu, Di Jin, Weixiong Zhang.*
 
 #### [GNNSBM](#content)
 
 5. **Stochastic Blockmodels meet Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/abs/1905.05738v1)
 
-    *Nikhil Mehta and Lawrence Carin and Piyush Rai.*   
+    *Nikhil Mehta, Lawrence Carin, Piyush Rai.*   
     
 ### [Topic model]
 
