@@ -479,7 +479,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 # [Applications](#content)
 
 ## [Online Social Network](#content)
-1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. 
+1. **Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection.** AAAI 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5455)
 
     *Yongji Wu, Defu Lian, Yiheng Xu, Le Wu and Enhong Chen.*
     
