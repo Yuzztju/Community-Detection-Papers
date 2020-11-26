@@ -110,13 +110,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 1. **Stochastic blockmodels: First steps** Social Networks 1983. [paper](http://www.stat.cmu.edu/~brian/780/bibliography/04%20Blockmodels/Holland%20-%201983%20-%20Stochastic%20blockmodels,%20first%20steps.pdf)
 
-    *Paul W. Holland，Kathryn Blackmond Laskey，Samuel Leinhardt.*
+    *Paul W. Holland, Kathryn Blackmond Laskey, Samuel Leinhardt.*
 
 #### [MMSB](#content)
 
 1. **Scalable MCMC in degree corrected stochastic block mode.** ICASSP 2019. [paper](https://www.researchgate.net/publication/330810779_Scalable_MCMC_in_Degree_Corrected_Stochastic_Block_Model)
 
-    *Soumyasundar Pal and Mark Coates.*
+    *Soumyasundar Pal, Mark Coates.*
 
 2. **Copula mixed-membership stochastic block model** IJCAI 2016. [paper](http://ijcai.org/Proceedings/16/Papers/210.pdf)
 
