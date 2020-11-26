@@ -144,7 +144,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 1. **Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel.** AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6148)
 
-    *Zheng Yu, Xuhui Fan, Marcin Pietrasik, Marek Z. Reformat.*
+    *Zheng Yu, Xuhui Fan, Marcin Pietrasik and Marek Z. Reformat.*
     
 2. **Change point estimation in a dynamic stochastic block model.** J. Mach. Learn. Res. 2020. [paper](https://jmlr.org/papers/volume21/18-814/18-814.pdf)
 
@@ -152,7 +152,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
     
 3. **Dynamic Stochastic Block Model with Scale-Free Characteristic for Temporal Complex Networks.** DASFAA 2019. [paper](http://link.springer.com/chapter/10.1007/978-3-030-18579-4_30)
 
-    *Xunxun Wu, Pengfei Jiao, Yaping Wang, Tianpeng Li, Wenjun Wang, Bo Wang.*
+    *Xunxun Wu, Pengfei Jiao, Yaping Wang, Tianpeng Li, Wenjun Wang and Bo Wang.*
 
 4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model.** arxiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
 
@@ -186,11 +186,11 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 1. **Modeling with Node Popularities for Autonomous Overlapping Community Detection.** TIST 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3373760)
 
-    *Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He, Hongyu Shan, Weixiong Zhang.*
+    *Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He, Hongyu Shan and Weixiong Zhang.*
     
 2. **Small-Variance Asymptotics for Nonparametric Bayesian Overlapping Stochastic Blockmodels.** IJCAI 2018. [paper](http://www.ijcai.org/proceedings/2018/0276.pdf)
 
-    *Gundeep Arora and Anupreet Porwal and Kanupriya Agarwal and Avani Samdariya and Piyush Rai.*
+    *Gundeep Arora, Anupreet Porwal, Kanupriya Agarwal, Avani Samdariya and Piyush Rai.*
     
 3. **Overlapping stochastic block models with application to the french political blogosphere.** The Annals of Applied Statistics 2011. [paper](https://arxiv.org/pdf/0910.2098.pdf)
 
@@ -200,11 +200,11 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 12. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://www.cse.wustl.edu/~zhang/publications/stocModelaaai15.pdf)
 
-    *Dongxiao He, Dayou Liu, Di Jin, Weixiong Zhang.*
+    *Dongxiao He, Dayou Liu, Di Jin and Weixiong Zhang.*
 
 #### [GNNSBM](#content)
 
-5. **Stochastic Blockmodels meet Graph Neural Networks.** ICML 2019. [paper](https://arxiv.org/abs/1905.05738v1)
+5. **Stochastic Blockmodels meet Graph Neural Networks.** ICML 2019. [paper](http://proceedings.mlr.press/v97/mehta19a/mehta19a.pdf)
 
     *Nikhil Mehta, Lawrence Carin, Piyush Rai.*   
     
@@ -214,7 +214,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 8. **An LDA-based Community Structure Discovery Approach for Large-Scale Social Networks.** ISI 2007. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258697)
 
-    *Haizheng Zhang, Baojun Qiu, C. Lee Giles, Henry C. Foley, John Yen.*
+    *Haizheng Zhang, Baojun Qiu, C. Lee Giles, Henry C. Foley and John Yen.*
 
 
 #### [Use social network attributes](#content)  
@@ -227,30 +227,30 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Youngchul Cha, Junghoo Cho.* 
 
-#### [combining topic model with Bayesian model](#content)  
+#### [Combining topic model with Bayesian model](#content)  
 
 1. **Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics.** TKDE 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)
 
-    *Di Jin, Kunzeng Wang, Ge Zhang, Pengfei Jiao, Dongxiao He, Françoise Fogelman{-}Souli{\'{e}}, Xin Huang.*
+    *Di Jin, Kunzeng Wang, Ge Zhang, Pengfei Jiao, Dongxiao He, Françoise Fogelman-Soulié and Xin Huang.*
 
 4. **Joint identification of network communities and semantics via integrative modeling of network topologies and node contents.** AAAI 2017. 
 
-    *Dongxiao He, Zhiyong Feng, Di Jin, Xiaobao Wang, Weixiong Zhang.*
+    *Dongxiao He, Zhiyong Feng, Di Jin, Xiaobao Wang and Weixiong Zhang.*
 
 5. **A model-based approach to attributed graph clustering.** SIGMOD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2213836.2213894)
 
-    *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng.*
+    *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng and James Cheng.*
     
 
 #### [Topic embedding methods](#content)  
 
 1. **A Novel Generative Topic Embedding Model by Introducing Network Communities.** WWW 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313623)
 
-    *Di Jin, Jiantao Huang, Pengfei Jiao, Liang Yang, Dongxiao He, Françoise Fogelman{-}Souli{\'{e}}, Yuxiao Huang.*
+    *Di Jin, Jiantao Huang, Pengfei Jiao, Liang Yang, Dongxiao He, Françoise Fogelman-Soulié and Yuxiao Huang.*
     
 3. **Efficient Correlated Topic Modeling with Topic Embedding.** KDD 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098074)
 
-    *Junxian He, Zhiting Hu, Taylor Berg-Kirkpatrick, Ying Huang, Eric P. Xing.*
+    *Junxian He, Zhiting Hu, Taylor Berg-Kirkpatrick, Ying Huang and Eric P. Xing.*
 
 ### [Matrix Factorization-based Methods](#content)
 #### Basic NMF 
