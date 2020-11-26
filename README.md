@@ -154,7 +154,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Xunxun Wu, Pengfei Jiao, Yaping Wang, Tianpeng Li, Wenjun Wang and Bo Wang.*
 
-4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model.** arxiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
+4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model.** arXiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
 
     *James D. Wilson, Nathaniel T. Stevens, William H. Woodall.*
     
