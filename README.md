@@ -400,7 +400,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
      *Chun Wang, Shirui Pan, Guodong Long, Xingquan Zhu and Jing Jiang.*
      
-1. **Graph clustering with dynamic embedding.** CoRR 2017. [paper](https://arxiv.org/abs/1712.08249)
+1. **Graph clustering with dynamic embedding.** arXiv 2017. [paper](https://arxiv.org/abs/1712.08249)
 
      *Carl Yang, Mengxiong Liu, Zongyi Wang, Liyuan Liu and Jiawei Han.*
      
