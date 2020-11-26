@@ -31,10 +31,10 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 </tr>
 <tr><td colspan="2"><a href="#Applications">4. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Online-Social-Network-&-Neuroscience">4.1 Online Social Network & Neuroscience</a></td>
+    <td>&emsp;&ensp;<a href="#Applications">4.1 Online Social Network & Neuroscience</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Recommendation-&-Link-Prediction">4.2 Recommendation & Link Prediction</a></td>
+    <td>&emsp;&ensp;<a href="#Applications">4.2 Recommendation & Link Prediction</a></td>
 </tr> 
 </table>
 
