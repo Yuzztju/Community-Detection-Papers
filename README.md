@@ -184,7 +184,8 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
     
 #### [OSBM](#content)
 
-1. **Modeling with Node Popularities for Autonomous Overlapping Community Detection.** TIST 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3373760)
+1. **Modeling with Node Popularities for Autonomous Overlapping Community Detection.** TIST 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3373760)
+
     *Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He, Hongyu Shan, Weixiong Zhang.*
     
 2. **Small-Variance Asymptotics for Nonparametric Bayesian Overlapping Stochastic Blockmodels.** IJCAI 2018. [paper](http://www.ijcai.org/proceedings/2018/0276.pdf)
