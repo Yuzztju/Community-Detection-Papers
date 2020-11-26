@@ -128,17 +128,17 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### [DCSBM](#content)
 
-1. **Convexified modularity maximization for degree-corrected stochastic block models** Annals of Statistics 2018. [paper](https://arxiv.org/pdf/1512.08425.pdf)
+1. **Convexified modularity maximization for degree-corrected stochastic block models.** Annals of Statistics 2018. [paper](https://arxiv.org/pdf/1512.08425.pdf)
 
-    *Yudong Chen, Xiaodong Li, and Jiaming Xu.*
+    *Yudong Chen, Xiaodong Li, Jiaming Xu.*
 
-2. **A spectral method for community detection in moderately sparse degree-corrected stochastic block models** Advances in Applied Probability 2017. [paper](https://arxiv.org/pdf/1506.08621.pdf)
+2. **A spectral method for community detection in moderately sparse degree-corrected stochastic block models.** Advances in Applied Probability 2017. [paper](https://arxiv.org/pdf/1506.08621.pdf)
 
-    *Lennart Gulikers, Marc Lelarge, and Laurent Massouli{\'e}.*
+    *Lennart Gulikers, Marc Lelarge, Laurent Massouli{\'e}.*
 
-3. **Consistency of community detection in networks under degree-corrected stochastic block models** Annals of Statistics 2012. [paper](https://arxiv.org/pdf/1110.3854v3.pdf)
+3. **Consistency of community detection in networks under degree-corrected stochastic block models.** Annals of Statistics 2012. [paper](https://arxiv.org/pdf/1110.3854v3.pdf)
 
-    *Yunpeng Zhao, Elizaveta Levina and Ji Zhu.*
+    *Yunpeng Zhao, Elizaveta Levina, Ji Zhu.*
 
 #### [DynSBM](#content)
 
