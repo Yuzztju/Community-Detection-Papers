@@ -503,13 +503,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Venu Satuluri, Yao Wu, Xun Zheng, Yilei Qian, Brian Wichers, Qieyun Dai, Gui Ming Tang, Jerry Jiang and Jimmy Lin.*
     
-2. **Experience-Aware Item Recommendation in Evolving Review Communities.** ICDM 2015. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373413)
-
-    *Subhabrata Mukherjee, Hemank Lamba, Gerhard Weikum.*
-
 3. **Towards Recommendation Using Interest-Based Communities in Attributed Social Networks.** WWW 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191562)
 
     *Amani H. B. Eissa, Mohamed E. El-Sharkawi, Hoda M. O. Mokhtar.*
+    
+2. **Experience-Aware Item Recommendation in Evolving Review Communities.** ICDM 2015. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7373413)
+
+    *Subhabrata Mukherjee, Hemank Lamba, Gerhard Weikum.*
     
 ## [Link prediction](#content)
 
