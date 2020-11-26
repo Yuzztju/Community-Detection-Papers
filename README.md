@@ -98,7 +98,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 14. **Overview of Community Detection Models on Statistical Inference.**  Computer Science 2012. [paper](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=4558)
 
-    *Bianfang Chai，Caiyan Jia，Jian Yu.*
+    *Bianfang Chai, Caiyan Jia, Jian Yu.*
     
 # [Community Detection With Probabilistic Graphical Model](#content)
 
