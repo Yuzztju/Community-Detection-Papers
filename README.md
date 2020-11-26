@@ -1,6 +1,6 @@
 # Must-read papers on community detection 
 
-Contributed by Zhizhi Yu, Zhilu Wang, Renbiao Wang and Yingli Gong.
+Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 # [Content](#content)
 
