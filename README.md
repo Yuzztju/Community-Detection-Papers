@@ -16,7 +16,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 <tr>
     <td>&emsp;&ensp;<a href="#Integrating-Directed-and-Undirected-Models">2.3 Integrating Directed and Undirected Models</a></td>
 </tr>
-<tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">3. Community Deteciton With Deep Learning</a></td></tr> 
+<tr><td colspan="2"><a href="#Community-Deteciton-With-Deep-Learning">3. Community Deteciton With Deep Learning</a></td></tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">3.1 Auto-encoder-based Methods</a></td>
 </tr> 
