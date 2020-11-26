@@ -146,7 +146,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Zheng Yu, Xuhui Fan, Marcin Pietrasik, Marek Z. Reformat.*
     
-2. **Change point estimation in a dynamic stochastic block model.** J. Mach. Learn. Res. 2020 [paper](https://arxiv.org/pdf/1812.03090.pdf)
+2. **Change point estimation in a dynamic stochastic block model.** J. Mach. Learn. Res. 2020. [paper](https://jmlr.org/papers/volume21/18-814/18-814.pdf)
 
     *Monika Bhattacharjee, Moulinath Banerjee, George Michailidis.*
     
