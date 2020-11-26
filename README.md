@@ -134,7 +134,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 2. **A spectral method for community detection in moderately sparse degree-corrected stochastic block models.** Advances in Applied Probability 2017. [paper](https://arxiv.org/pdf/1506.08621.pdf)
 
-    *Lennart Gulikers, Marc Lelarge, Laurent Massouli{\'e}.*
+    *Lennart Gulikers, Marc Lelarge, Laurent Massoulié.*
 
 3. **Consistency of community detection in networks under degree-corrected stochastic block models.** Annals of Statistics 2012. [paper](https://arxiv.org/pdf/1110.3854v3.pdf)
 
