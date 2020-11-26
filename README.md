@@ -114,7 +114,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### [MMSB](#content)
 
-1. **Scalable MCMC in degree corrected stochastic block mode.** ICASSP 2019. [paper](https://www.researchgate.net/publication/330810779_Scalable_MCMC_in_Degree_Corrected_Stochastic_Block_Model)
+1. **Scalable MCMC in degree corrected stochastic block mode.** ICASSP 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683631)
 
     *Soumyasundar Pal, Mark Coates.*
 
