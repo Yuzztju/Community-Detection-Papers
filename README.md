@@ -223,7 +223,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Zhijun Yin, Liangliang Cao, Quanquan Gu and Jiawei Han.*
     
-2. **Social-network analysis using topic models** SIGIR 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2348283.2348360)
+2. **Social-network analysis using topic models.** SIGIR 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2348283.2348360)
 
     *Youngchul Cha, Junghoo Cho.* 
 
