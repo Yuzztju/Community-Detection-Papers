@@ -40,7 +40,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 # [Survey papers](#content)
 
-1. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/693)
+1. **Deep Learning for Community Detection: Progress, Challenges and Opportunities.** IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)
 
     *Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cécile Paris, Surya Nepal, Jian Yang and Philip S. Yu.*
 
