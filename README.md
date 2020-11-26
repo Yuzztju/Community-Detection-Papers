@@ -284,7 +284,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Xiaochun Cao, Xiao Wang, Di Jin, Yixin Cao and Dongxiao He.*
     
-5. **Community discovery using nonnegative matrix factorization.** DMKD 2011. [paper](https://www.researchgate.net/profile/Shenghuo_Zhu/publication/220451825_Community_discovery_using_nonnegative_matrix_factorization/links/0c960522670bb2e4f7000000.pdf)
+5. **Community discovery using nonnegative matrix factorization.** DMKD 2011. [paper](https://link.springer.com/article/10.1007%2Fs10618-010-0181-y)
 
     *Fei Wang, Tao Li, Xin Wang, Shenghuo Zhu and Chris H. Q. Ding.*
     
