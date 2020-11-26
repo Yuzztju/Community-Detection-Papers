@@ -114,11 +114,11 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### [MMSB](#content)
 
-1. **Scalable MCMC in degree corrected stochastic block mode.** ICASSP 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683631)
+1. **Scalable MCMC in degree corrected stochastic block model.** ICASSP 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683631)
 
     *Soumyasundar Pal, Mark Coates.*
 
-2. **Copula mixed-membership stochastic block model** IJCAI 2016. [paper](http://ijcai.org/Proceedings/16/Papers/210.pdf)
+2. **Copula mixed-membership stochastic block model.** IJCAI 2016. [paper](http://ijcai.org/Proceedings/16/Papers/210.pdf)
 
     *Xuhui Fan, Richard Yi Da Xu, Longbing Cao.*
 
