@@ -142,43 +142,43 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### [DynSBM](#content)
 
-1. **Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel** AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6148)
+1. **Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel.** AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6148)
 
     *Zheng Yu, Xuhui Fan, Marcin Pietrasik, Marek Z. Reformat.*
     
-2. **Change point estimation in a dynamic stochastic block model** Journal of Machine Learning Research. 2020 [paper](https://arxiv.org/pdf/1812.03090.pdf)
+2. **Change point estimation in a dynamic stochastic block model.** J. Mach. Learn. Res. 2020 [paper](https://arxiv.org/pdf/1812.03090.pdf)
 
     *Monika Bhattacharjee, Moulinath Banerjee, George Michailidis.*
     
-3. **Dynamic Stochastic Block Model with Scale-Free Characteristic for Temporal Complex Networks** DASFAA 2019. [paper](http://link.springer.com/chapter/10.1007/978-3-030-18579-4_30)
+3. **Dynamic Stochastic Block Model with Scale-Free Characteristic for Temporal Complex Networks.** DASFAA 2019. [paper](http://link.springer.com/chapter/10.1007/978-3-030-18579-4_30)
 
     *Xunxun Wu and Pengfei Jiao and Yaping Wang and Tianpeng Li and Wenjun Wang and Bo Wang.*
 
-4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model** arxiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
+4. **Modeling and detecting change in temporal networks via a dynamic degree corrected stochastic block model.** arxiv 2016. [paper](https://arxiv.org/pdf/1605.04049.pdf)
 
     *James D. Wilson，Nathaniel T. Stevens，William H. Woodall.*
     
-5. **Stochastic Block Transition Models for Dynamic Networks** AISTATS 2015. [paper](https://arxiv.org/pdf/1411.5404.pdf)
+5. **Stochastic Block Transition Models for Dynamic Networks.** AISTATS 2015. [paper](https://arxiv.org/pdf/1411.5404.pdf)
 
     *Kevin S. Xu.*
 
-6. **Detecting social media hidden communities using dynamic stochastic blockmodel with temporal dirichlet process** TIST 2014. [paper](https://dl.acm.org/doi/10.1145/2517085)
+6. **Detecting social media hidden communities using dynamic stochastic blockmodel with temporal dirichlet process.** TIST 2014. [paper](https://dl.acm.org/doi/10.1145/2517085)
 
     *Xuning Tang, Christopher C. Yang.* 
     
-7. **Dynamic stochastic blockmodels for time-evolving social networks** IEEE Journal of Selected Topics in Signal Processing 2014. [paper](https://arxiv.org/pdf/1403.0921.pdf)
+7. **Dynamic stochastic blockmodels for time-evolving social networks.** IEEE Journal of Selected Topics in Signal Processing 2014. [paper](https://arxiv.org/pdf/1403.0921.pdf)
 
     *Kevin S Xu, Alfred Hero.* 
 
-8. **Detecting communities and their evolutions in dynamic social networks - a Bayesian approach** Machine Learning 2011. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.1069&rep=rep1&type=pdf)
+8. **Detecting communities and their evolutions in dynamic social networks - a Bayesian approach.** Machine Learning 2011. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.1069&rep=rep1&type=pdf)
 
     *Tianbao Yang, Yun Chi, Shenghuo Zhu, Yihong Gong and Rong Jin.* 
     
-9. **Dynamic mixed membership blockmodel for evolving networks** ICML 2009. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4703&rep=rep1&type=pdf)
+9. **Dynamic mixed membership blockmodel for evolving networks.** ICML 2009. [paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.149.4703&rep=rep1&type=pdf)
 
     *Wenjie Fu, Le Song, Eric P. Xing.* 
     
-10. **A state-space mixed membership blockmodel for dynamic network tomography** arXiv 2008. [paper](https://arxiv.org/abs/0901.0135v2)
+10. **A state-space mixed membership blockmodel for dynamic network tomography.** arXiv 2008. [paper](https://arxiv.org/abs/0901.0135v2)
 
     *Eric P Xing, Wenjie Fu, Le Song.*
     
@@ -187,11 +187,11 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 1. **Modeling with Node Popularities for Autonomous Overlapping Community Detection.** TIST 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3373760)
     *Di Jin, Bingyi Li, Pengfei Jiao, Dongxiao He, Hongyu Shan, Weixiong Zhang.*
     
-2. **Small-Variance Asymptotics for Nonparametric Bayesian Overlapping Stochastic Blockmodels** IJCAI 2018. [paper](http://www.ijcai.org/proceedings/2018/0276.pdf)
+2. **Small-Variance Asymptotics for Nonparametric Bayesian Overlapping Stochastic Blockmodels.** IJCAI 2018. [paper](http://www.ijcai.org/proceedings/2018/0276.pdf)
 
     *Gundeep Arora and Anupreet Porwal and Kanupriya Agarwal and Avani Samdariya and Piyush Rai.*
     
-3. **Overlapping stochastic block models with application to the french political blogosphere** The Annals of Applied Statistics 2011 [paper](https://arxiv.org/pdf/0910.2098.pdf)
+3. **Overlapping stochastic block models with application to the french political blogosphere.** The Annals of Applied Statistics 2011 [paper](https://arxiv.org/pdf/0910.2098.pdf)
 
     *Pierre Latouche，Etienne Birmelé，Christophe Ambroise.*
 
@@ -211,7 +211,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 #### [Model network structures as documents](#content)  
 
-8. **An LDA-based Community Structure Discovery Approach for Large-Scale Social Networks** ISI 2007. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258697)
+8. **An LDA-based Community Structure Discovery Approach for Large-Scale Social Networks.** ISI 2007. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258697)
 
     *Haizheng Zhang, Baojun Qiu, C. Lee Giles, Henry C. Foley, John Yen.*
 
@@ -232,22 +232,22 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Di Jin, Kunzeng Wang, Ge Zhang, Pengfei Jiao, Dongxiao He, Françoise Fogelman{-}Souli{\'{e}}, Xin Huang.*
 
-4. **Joint identification of network communities and semantics via integrative modeling of network topologies and node contents** AAAI 2017. 
+4. **Joint identification of network communities and semantics via integrative modeling of network topologies and node contents.** AAAI 2017. 
 
     *Dongxiao He, Zhiyong Feng, Di Jin, Xiaobao Wang, Weixiong Zhang.*
 
-5. **A model-based approach to attributed graph clustering** SIGMOD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2213836.2213894)
+5. **A model-based approach to attributed graph clustering.** SIGMOD 2012. [paper](https://dl.acm.org/doi/pdf/10.1145/2213836.2213894)
 
     *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng, James Cheng.*
     
 
 #### [Topic embedding methods](#content)  
 
-1. **A Novel Generative Topic Embedding Model by Introducing Network Communities** WWW 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313623)
+1. **A Novel Generative Topic Embedding Model by Introducing Network Communities.** WWW 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313623)
 
     *Di Jin, Jiantao Huang, Pengfei Jiao, Liang Yang, Dongxiao He, Françoise Fogelman{-}Souli{\'{e}}, Yuxiao Huang.*
     
-3. **Efficient Correlated Topic Modeling with Topic Embedding** KDD 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098074)
+3. **Efficient Correlated Topic Modeling with Topic Embedding.** KDD 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3097983.3098074)
 
     *Junxian He, Zhiting Hu, Taylor Berg-Kirkpatrick, Ying Huang, Eric P. Xing.*
 
