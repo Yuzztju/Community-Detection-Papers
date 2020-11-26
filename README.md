@@ -66,7 +66,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 6. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
 
-    *Tanja Hartmann，Andrea Kappes，Dorothea Wagner.*
+    *Tanja Hartmann, Andrea Kappes, Dorothea Wagner.*
 
 7. **Community detection in networks: A user guide.** arXiv 2016. [paper](https://arxiv.org/pdf/1608.00163.pdf)
 
