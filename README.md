@@ -124,7 +124,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 3. **Mixed membership stochastic blockmodels.** J. Mach. Learn. Res. 2008. [paper](https://www.jmlr.org/papers/volume9/airoldi08a/airoldi08a.pdf)
 
-    *Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg, Eric P. Xing.*
+    *Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg and Eric P. Xing.*
 
 #### [DCSBM](#content)
 
