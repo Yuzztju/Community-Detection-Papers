@@ -74,7 +74,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 8. **Community detection in large-scale networks: a survey and empirical evaluation.** WIREs Computational Statistics 2014. [paper](https://dl.acm.org/doi/10.5555/3160237.3160243)
 
-    *Steve Harenberg, Gonzalo Bello, L. Gjeltema, Stephen, Ranshous and  Nagiza Samatova.*
+    *Steve Harenberg, Gonzalo Bello, L. Gjeltema, Stephen Ranshous, Jitendra Harlalka, Ramona Seay, Kanchana Padmanabhan and Nagiza Samatova.*
     
 9. **Evolutionary Network Analysis: A Survey.** ACM Comput. Surv. 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2601412)
 
