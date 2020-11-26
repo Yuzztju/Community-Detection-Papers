@@ -62,7 +62,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
     
 5. **Metrics for Community Analysis: A Survey.**   ACM Comput. Surv. 2017. [paper](https://dl.acm.org/doi/pdf/10.1145/3091106)
 
-    *Tanmoy Chakraborty, Ayushi Dalmia, Animesh Mukherjee, Niloy Ganguly.*
+    *Tanmoy Chakraborty, Ayushi Dalmia, Animesh Mukherjee and Niloy Ganguly.*
 
 6. **Clustering Evolving Networks.** Algorithm Engineering 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-49487-6_9)
 
