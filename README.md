@@ -258,13 +258,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Bingjie Sun, Huawei Shen, Jinhua Gao, Wentao Ouyang and Xueqi Cheng.*
 
-2. **Symmetric Nonnegative Matrix Factorization for Graph Clustering.** ASONAM 2015. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972825.10)
-
-    *Da Kuang, Haesun Park, Chris H. Q. Ding.*
-    
-3. **Community Detection in Social Network with Pairwisely Constrained Symmetric Non-Negative Matrix Factorization.** ASONAM 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2808797.2809383)
+2. **Community Detection in Social Network with Pairwisely Constrained Symmetric Non-Negative Matrix Factorization.** ASONAM 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2808797.2809383)
 
     *Xiaohua Shi, Hongtao Lu, Yangcheng He and Shan He.*
+
+3. **Symmetric Nonnegative Matrix Factorization for Graph Clustering.** SIAM 2012. [paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611972825.10)
+
+    *Da Kuang, Haesun Park, Chris H. Q. Ding.* 
     
 #### Overlapping NMF 
 1. **Modeling the Homophily Effect between Links and Communities for Overlapping Community Detection.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/554.pdf)
