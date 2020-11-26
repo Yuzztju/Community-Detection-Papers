@@ -192,7 +192,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Gundeep Arora and Anupreet Porwal and Kanupriya Agarwal and Avani Samdariya and Piyush Rai.*
     
-3. **Overlapping stochastic block models with application to the french political blogosphere.** The Annals of Applied Statistics 2011 [paper](https://arxiv.org/pdf/0910.2098.pdf)
+3. **Overlapping stochastic block models with application to the french political blogosphere.** The Annals of Applied Statistics 2011. [paper](https://arxiv.org/pdf/0910.2098.pdf)
 
     *Pierre Latouche，Etienne Birmelé，Christophe Ambroise.*
 
