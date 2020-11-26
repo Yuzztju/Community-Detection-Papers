@@ -358,7 +358,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
      
 1. **High-performance community detection in social networks using a deep transitive autoencoder.** Inf. Sci 2019. [paper](https://linkinghub.elsevier.com/retrieve/pii/S0020025519303251)
 
-     *Ying Xie, Xinmei Wang, Dan Jiang, Rongbin Xu.*
+     *Ying Xie, Xinmei Wang, Dan Jiang and Rongbin Xu.*
      
 1. **A distributed overlapping community detection model for large graphs using autoencoder.** Future Gener. Comput. Syst. 2019. [paper](https://linkinghub.elsevier.com/retrieve/pii/S0167739X17327863)
 
