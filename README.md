@@ -106,13 +106,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
 ### [Stochastic Block Model](#content)
 
-#### [Basic SBM]
+#### Basic SBM
 
 1. **Stochastic blockmodels: First steps** Social Networks 1983. [paper](http://www.stat.cmu.edu/~brian/780/bibliography/04%20Blockmodels/Holland%20-%201983%20-%20Stochastic%20blockmodels,%20first%20steps.pdf)
 
     *Paul W. Holland, Kathryn Blackmond Laskey, Samuel Leinhardt.*
 
-#### [MMSB]
+#### MMSB
 
 1. **Scalable MCMC in degree corrected stochastic block model.** ICASSP 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8683631)
 
@@ -126,7 +126,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Edoardo M. Airoldi, David M. Blei, Stephen E. Fienberg and Eric P. Xing.*
 
-#### [DCSBM]
+#### DCSBM
 
 1. **Convexified modularity maximization for degree-corrected stochastic block models.** Annals of Statistics 2018. [paper](https://arxiv.org/pdf/1512.08425.pdf)
 
@@ -140,7 +140,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Yunpeng Zhao, Elizaveta Levina, Ji Zhu.*
 
-#### [DynSBM]
+#### DynSBM
 
 1. **Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel.** AAAI 2020. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/6148)
 
@@ -182,7 +182,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Eric P Xing, Wenjie Fu, Le Song.*
     
-#### [OSBM]
+#### OSBM
 
 1. **Modeling with Node Popularities for Autonomous Overlapping Community Detection.** TIST 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3373760)
 
@@ -196,13 +196,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Pierre Latouche，Etienne Birmelé，Christophe Ambroise.*
 
-#### [LSBM]
+#### LSBM
 
 1. **A Stochastic Model for Detecting Heterogeneous Link Communities in Complex Networks.** AAAI 2015. [paper](https://www.cse.wustl.edu/~zhang/publications/stocModelaaai15.pdf)
 
     *Dongxiao He, Dayou Liu, Di Jin and Weixiong Zhang.*
 
-#### [GNNSBM]
+#### GNNSBM
 
 1. **Stochastic Blockmodels meet Graph Neural Networks.** ICML 2019. [paper](http://proceedings.mlr.press/v97/mehta19a/mehta19a.pdf)
 
@@ -210,14 +210,14 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
     
 ### [Topic model](#content) 
 
-#### [Model network structures as documents] 
+#### Model network structures as documents
 
 1. **An LDA-based Community Structure Discovery Approach for Large-Scale Social Networks.** ISI 2007. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258697)
 
     *Haizheng Zhang, Baojun Qiu, C. Lee Giles, Henry C. Foley and John Yen.*
 
 
-#### [Use social network attributes]
+#### Use social network attributes
 
 1. **Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling.** TIST 2012 [paper](https://dl.acm.org/doi/pdf/10.1145/2337542.2337548)
 
@@ -227,7 +227,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Youngchul Cha, Junghoo Cho.* 
 
-#### [Combining topic model with Bayesian model] 
+#### Combining topic model with Bayesian model 
 
 1. **Detecting Communities with Multiplex Semantics by Distinguishing Background, General and Specialized Topics.** TKDE 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8832212)
 
@@ -242,7 +242,7 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
     *Zhiqiang Xu, Yiping Ke, Yi Wang, Hong Cheng and James Cheng.*
     
 
-#### [Topic embedding methods] 
+#### Topic embedding methods
 
 1. **A Novel Generative Topic Embedding Model by Introducing Network Communities.** WWW 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313623)
 
