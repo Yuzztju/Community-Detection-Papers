@@ -162,11 +162,11 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Kevin S. Xu.*
 
-6. **Detecting social media hidden communities using dynamic stochastic blockmodel with temporal dirichlet process.** TIST 2014. [paper](https://dl.acm.org/doi/10.1145/2517085)
+6. **Detecting social media hidden communities using dynamic stochastic blockmodel with temporal dirichlet process.** TIST 2014. [paper](https://dl.acm.org/doi/pdf/10.1145/2517085)
 
     *Xuning Tang, Christopher C. Yang.* 
     
-7. **Dynamic stochastic blockmodels for time-evolving social networks.** IEEE Journal of Selected Topics in Signal Processing 2014. [paper](https://arxiv.org/pdf/1403.0921.pdf)
+7. **Dynamic stochastic blockmodels for time-evolving social networks.** IEEE J. Sel. Top. Signal Process. 2014. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6758385)
 
     *Kevin S Xu, Alfred Hero.* 
 
