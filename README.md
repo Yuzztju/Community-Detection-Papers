@@ -325,25 +325,25 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 
     *Di Jin, Binbin Zhang, Yue Song, Dongxiao He, Zhiyong Feng, Shizhan Chen, Weihao Li and Katarzyna Musial.*
 
-2. **Incorporating Network Embedding into Markov Random Field for Better Community Detection.** AAAI 2019. [paper] (https://scihub.se/https://doi.org/10.1609/aaai.v33i01.3301160)
+2. **Incorporating Network Embedding into Markov Random Field for Better Community Detection.** AAAI 2019.  [paper](https://scihub.se/https://doi.org/10.1609/aaai.v33i01.3301160)
 
     *Di Jin, Xinxin You, Weihao Li, Dongxiao He, Peng Cui, Françoise Fogelman-Soulié and Tanmoy Chakraborty.*
 
-3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018. [paper] (https://openreview.net/forum?id=ryW1MybO-H)
+3. **A Network-Specific Markov Random Field Approach to Community Detection.** AAAI 2018.  [paper](https://openreview.net/forum?id=ryW1MybO-H)
 
     *Dongxiao He, Xinxin You, Zhiyong Feng, Di Jin, Xue Yang and Weixiong Zhang.*
 
 ## [Integrating Directed and Undirected Models](#content)
 
-1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019. [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
+1. **An End-to-End Community Detection Model: Integrating LDA into Markov Random Field via Factor Graph.** IJCAI 2019.  [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
 
     *Dongxiao He, Wenze Song, Di Jin, Zhiyong Feng and Yuxiao Huang.*
 
-2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014. [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
+2. **A Novel Ego-Centered Academic Community Detection Approach via Factor Graph Model.** IDEAL 2014.  [paper] (https://www.ijcai.org/Proceedings/2019/0794.pdf)
 
     *Yusheng Jia, Yang Gao, Wanqi Yang, Jing Huo and Yinghuan Shi.*
 
-3. **Social Community Analysis via a Factor Graph Model.** IEEE Intell. Syst. 2011. [paper](https://www.researchgate.net/profile/Juanzi_Li/publication/220628742_Social_Community_Analysis_via_a_Factor_Graph_Model/links/55ade73308aee079921e3f15/Social-Community-Analysis-via-a-Factor-Graph-Model.pdf)
+3. **Social Community Analysis via a Factor Graph Model.** IEEE Intell. Syst. 2011.  [paper](https://www.researchgate.net/profile/Juanzi_Li/publication/220628742_Social_Community_Analysis_via_a_Factor_Graph_Model/links/55ade73308aee079921e3f15/Social-Community-Analysis-via-a-Factor-Graph-Model.pdf)
 
     *Zi Yang, Jie Tang, Juanzi Li and Wenjun Yang.*
 
