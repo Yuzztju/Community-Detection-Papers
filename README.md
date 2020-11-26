@@ -8,13 +8,13 @@ Contributed by Zhizhi Yu, Luzhi Wang, Renbiao Wang and Yingli Gong.
 <tr><td colspan="2"><a href="#Survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#Community-Detection-With-Probabilistic-Graphical-Model">2. Community Detection With Probabilistic Graphical Model</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#DGM">2.1 Directed Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#Directed-Graphical-Models">2.1 Directed Graphical Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#UGM">2.2 Undirected Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#Undirected-Graphical-Models">2.2 Undirected Graphical Models</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#DMUM">2.3 Integrating Directed and Undirected Models</a></td>
+    <td>&emsp;&ensp;<a href="#Integrating-Directed-and-Undirected-Models">2.3 Integrating Directed and Undirected Models</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Community Deteciton With Deep Learning">3. Community Deteciton With Deep Learning</a></td></tr> 
 <tr>
